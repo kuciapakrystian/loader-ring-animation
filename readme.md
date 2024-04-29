@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="65"/>
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 # Gradient Circle Loader ring animation - used html, css
 ## Project Specifications:
